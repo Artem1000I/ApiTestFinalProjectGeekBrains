@@ -1,5 +1,3 @@
-import com.github.javafaker.Bool;
-
 import java.util.ArrayList;
 import java.util.Date;
 
